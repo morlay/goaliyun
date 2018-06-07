@@ -1,0 +1,3 @@
+[submodule "aliyun-openapi-java-sdk"]
+	path = aliyun-openapi-java-sdk
+	url = https://github.com/aliyun/aliyun-openapi-java-sdk.git
